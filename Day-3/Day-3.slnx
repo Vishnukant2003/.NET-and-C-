@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../Interfaces/Interfaces.csproj" Id="2b3cbba2-337f-430b-9d9c-afbdbf637539" />
+  <Project Path="../NUllableType/NUllableType.csproj" Id="e5f6615f-68d4-46e9-8a6a-f056c375e3f5" />
+  <Project Path="../PassingRefrenceType/PassingRefrenceType.csproj" Id="de2c0eb3-8c64-497c-8f85-ac8e7631f639" />
+  <Project Path="../RefandValie2/RefandValie2.csproj" Id="ce4e18c8-3ced-4bf0-878f-e89679cc0468" />
+  <Project Path="../RefandValue/RefandValue.csproj" Id="d77d521d-9709-496e-9fae-134b99478899" />
+  <Project Path="Day-3.csproj" />
+</Solution>

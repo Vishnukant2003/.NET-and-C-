@@ -1,0 +1,16 @@
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\bin\Debug\net10.0\RefandValie2.exe
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\bin\Debug\net10.0\RefandValie2.deps.json
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\bin\Debug\net10.0\RefandValie2.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\bin\Debug\net10.0\RefandValie2.runtimeconfig.dev.json
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\bin\Debug\net10.0\RefandValie2.dll
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\bin\Debug\net10.0\RefandValie2.pdb
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\RefandValie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\RefandValie2.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\RefandValie2.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\RefandValie2.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\RefandValie2.dll
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\refint\RefandValie2.dll
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\RefandValie2.pdb
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\RefandValie2.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\ref\RefandValie2.dll
+C:\Users\vishn\OneDrive\Desktop\.net\RefandValie2\obj\Debug\net10.0\RefandVa.0C06B3DE.Up2Date
