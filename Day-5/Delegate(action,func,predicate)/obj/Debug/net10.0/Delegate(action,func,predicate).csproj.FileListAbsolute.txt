@@ -1,0 +1,17 @@
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate(action,func,predicate).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate(action,func,predicate).AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate(action,func,predicate).AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate(action,func,predicate).csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate(action,func,predicate).sourcelink.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\bin\Debug\net10.0\Delegate(action,func,predicate).exe
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\bin\Debug\net10.0\Delegate(action,func,predicate).deps.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\bin\Debug\net10.0\Delegate(action,func,predicate).runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\bin\Debug\net10.0\Delegate(action,func,predicate).runtimeconfig.dev.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\bin\Debug\net10.0\Delegate(action,func,predicate).dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\bin\Debug\net10.0\Delegate(action,func,predicate).pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate(action,func,predicate).dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\refint\Delegate(action,func,predicate).dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate(action,func,predicate).pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate(action,func,predicate).genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\ref\Delegate(action,func,predicate).dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Delegate(action,func,predicate)\obj\Debug\net10.0\Delegate.FC292170.Up2Date

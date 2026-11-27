@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Delegate(action,func,predicate)/1.0.0": {
+        "runtime": {
+          "Delegate(action,func,predicate).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegate(action,func,predicate)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

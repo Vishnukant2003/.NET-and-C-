@@ -1,0 +1,17 @@
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\bin\Debug\net10.0\ParamsArray.exe
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\bin\Debug\net10.0\ParamsArray.deps.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\bin\Debug\net10.0\ParamsArray.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\bin\Debug\net10.0\ParamsArray.runtimeconfig.dev.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\bin\Debug\net10.0\ParamsArray.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\bin\Debug\net10.0\ParamsArray.pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsArray.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsArray.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsArray.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsArray.sourcelink.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsArray.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\refint\ParamsArray.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsArray.pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsArray.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ref\ParamsArray.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-4\ParamsArray\obj\Debug\net10.0\ParamsAr.DBA6574A.Up2Date

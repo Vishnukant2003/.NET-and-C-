@@ -1,0 +1,17 @@
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\bin\Debug\net10.0\Lambda_functions.exe
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\bin\Debug\net10.0\Lambda_functions.deps.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\bin\Debug\net10.0\Lambda_functions.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\bin\Debug\net10.0\Lambda_functions.runtimeconfig.dev.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\bin\Debug\net10.0\Lambda_functions.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\bin\Debug\net10.0\Lambda_functions.pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_functions.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_functions.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_functions.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_functions.sourcelink.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_functions.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\refint\Lambda_functions.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_functions.pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_functions.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\ref\Lambda_functions.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Lambda_functions\obj\Debug\net10.0\Lambda_f.B53A2AD0.Up2Date

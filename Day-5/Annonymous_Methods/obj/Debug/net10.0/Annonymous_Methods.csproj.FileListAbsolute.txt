@@ -1,0 +1,17 @@
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\bin\Debug\net10.0\Annonymous_Methods.exe
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\bin\Debug\net10.0\Annonymous_Methods.deps.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\bin\Debug\net10.0\Annonymous_Methods.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\bin\Debug\net10.0\Annonymous_Methods.runtimeconfig.dev.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\bin\Debug\net10.0\Annonymous_Methods.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\bin\Debug\net10.0\Annonymous_Methods.pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymous_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymous_Methods.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymous_Methods.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymous_Methods.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymous_Methods.sourcelink.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymous_Methods.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\refint\Annonymous_Methods.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymous_Methods.pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymous_Methods.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\ref\Annonymous_Methods.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\Annonymous_Methods\obj\Debug\net10.0\Annonymo.8B908BEF.Up2Date
