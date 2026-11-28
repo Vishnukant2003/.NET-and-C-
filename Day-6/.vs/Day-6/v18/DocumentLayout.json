@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishn\\OneDrive\\Desktop\\.NET-and-C-\\Day-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEAB55E-BEC9-48D6-80B1-61794D47103A}|LinqExample1\\LinqExample1.csproj|c:\\users\\vishn\\onedrive\\desktop\\.net-and-c-\\day-6\\linqexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEAB55E-BEC9-48D6-80B1-61794D47103A}|LinqExample1\\LinqExample1.csproj|solutionrelative:linqexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishn\\OneDrive\\Desktop\\.NET-and-C-\\Day-6\\LinqExample1\\Program.cs",
+              "RelativeDocumentMoniker": "LinqExample1\\Program.cs",
+              "ToolTip": "C:\\Users\\vishn\\OneDrive\\Desktop\\.NET-and-C-\\Day-6\\LinqExample1\\Program.cs",
+              "RelativeToolTip": "LinqExample1\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-28T07:07:11.819Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

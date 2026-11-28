@@ -1,0 +1,5 @@
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-6\LinqExample1\obj\Debug\net10.0\LinqExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-6\LinqExample1\obj\Debug\net10.0\LinqExample1.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-6\LinqExample1\obj\Debug\net10.0\LinqExample1.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-6\LinqExample1\obj\Debug\net10.0\LinqExample1.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-6\LinqExample1\obj\Debug\net10.0\LinqExample1.sourcelink.json

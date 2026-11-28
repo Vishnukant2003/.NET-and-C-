@@ -1,0 +1,17 @@
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\bin\Debug\net10.0\ParicalMethods.exe
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\bin\Debug\net10.0\ParicalMethods.deps.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\bin\Debug\net10.0\ParicalMethods.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\bin\Debug\net10.0\ParicalMethods.runtimeconfig.dev.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\bin\Debug\net10.0\ParicalMethods.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\bin\Debug\net10.0\ParicalMethods.pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalMethods.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalMethods.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalMethods.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalMethods.sourcelink.json
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalMethods.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\refint\ParicalMethods.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalMethods.pdb
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalMethods.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ref\ParicalMethods.dll
+C:\Users\vishn\OneDrive\Desktop\.NET-and-C-\Day-5\ParicalMethods\obj\Debug\net10.0\ParicalM.B10CDAF5.Up2Date

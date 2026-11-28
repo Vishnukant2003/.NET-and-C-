@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Annonymous_Methods",
-    "\\Delegate(action,func,predicate)",
     "\\EventHandling",
-    "\\Lambda_functions"
+    "\\ExceptionHandling"
   ],
-  "SelectedNode": "\\EventHandling\\EventHandling.csproj",
+  "SelectedNode": "\\ExceptionHandling\\ExceptionHandling.csproj",
   "PreviewInSolutionExplorer": false
 }
